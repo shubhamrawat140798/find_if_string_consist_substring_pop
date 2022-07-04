@@ -1,4 +1,4 @@
-//Q1.Write a Java program to return true if a given string contain the string 'pop', but the middle 'o' also may other character.
+//Java program will return true if a given string contain the string 'pop', but the middle 'o' also may other character.
 class Main{
     public static boolean checkPopInString(String str){
         for(int i=0;i<str.length()-2;i++){
